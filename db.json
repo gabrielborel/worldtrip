@@ -1,0 +1,40 @@
+{
+  "continents": [
+    {
+      "id": 1,
+      "slug": "america-do-norte",
+      "name": "América do Norte",
+      "text": "Lorem ipsum Lorem ipsum."
+    },
+    {
+      "id": 2,
+      "slug": "america-do-sul",
+      "name": "América do Sul",
+      "text": "Lorem ipsum Lorem ipsum."
+    },
+    {
+      "id": 3,
+      "slug": "asia",
+      "name": "Ásia",
+      "text": "Lorem ipsum Lorem ipsum."
+    },
+    {
+      "id": 4,
+      "slug": "africa",
+      "name": "África",
+      "text": "Lorem ipsum Lorem ipsum."
+    },
+    {
+      "id": 5,
+      "slug": "europa",
+      "name": "Europa",
+      "text": "Lorem ipsum Lorem ipsum."
+    },
+    {
+      "id": 6,
+      "slug": "oceania",
+      "name": "Oceania",
+      "text": "Lorem ipsum Lorem ipsum."
+    }
+  ]
+}
